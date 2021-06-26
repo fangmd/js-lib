@@ -21,6 +21,12 @@
       "exact": true
     }
   }
+
+# 发布带 scope 包的时候需要
+ "publishConfig": {
+    "access": "public"
+  },
+  
 ```
 
 ## 使用
