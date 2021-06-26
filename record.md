@@ -26,7 +26,10 @@
  "publishConfig": {
     "access": "public"
   },
-  
+
+# 设置版本管理模式：独立模式
+"version": "independent",
+
 ```
 
 ## 使用

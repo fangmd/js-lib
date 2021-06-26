@@ -1,5 +1,5 @@
 {
-  "name": "p-common",
+  "name": "@passon/p-common",
   "version": "0.2.0",
   "description": "> TODO: description",
   "author": "fangmingdong <fangmingdong@58.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/fangmd/js-lib/issues"
-  }
+  },
+  "gitHead": "8b07715dfb89175536ef0e8de8f5de3709614831"
 }
