@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/fangmd/js-lib/compare/@passon/common@0.3.2...@passon/common@0.4.0) (2021-06-26)
+
+
+### Features
+
+* jest ([d9bbe9a](https://github.com/fangmd/js-lib/commit/d9bbe9afa4e9247c0cd91ed6dcf2b143b0732b9a))
+
+
+
+
+
 ## [0.3.2](https://github.com/fangmd/js-lib/compare/@passon/common@0.3.1...@passon/common@0.3.2) (2021-06-26)
 
 
