@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.2](https://github.com/fangmd/js-lib/compare/@passon/time@0.3.1...@passon/time@0.3.2) (2021-06-26)
+
+
+### Bug Fixes
+
+* time ([9b19862](https://github.com/fangmd/js-lib/commit/9b19862c1f969ccf42d5fec5214529dd7d6e2eb1))
+
+
+
+
+
 ## 0.3.1 (2021-06-26)
 
 **Note:** Version bump only for package @passon/time
