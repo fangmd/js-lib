@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "declaration": true,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "es2015", // es2015, es5, es6
+        "sourceMap": true,
+        "lib": [
+            "es2015"
+        ],
+        "esModuleInterop": true, /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
+    },
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts",
+        "dist",
+        "__tests__"
+    ]
+}
