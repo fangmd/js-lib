@@ -1,5 +1,5 @@
 {
-  "name": "p-time",
+  "name": "@passon/p-time",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "fangmingdong <fangmingdong@58.com>",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "dayjs": "^1.10.5"
-  }
+  },
+  "gitHead": "e3230a2170f38674c43b627db444130f587ce542"
 }

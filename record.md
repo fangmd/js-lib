@@ -2,6 +2,8 @@
 
 # lerna
 
+## 配置
+
 `lerna.json`
 
 ```
@@ -10,9 +12,20 @@
 
 # 是否启用 yarn workspaces
 "useWorkspaces": true
+
+# changelog 功能
+  "command": {
+    "publish": {
+      "allowBranch": "master",
+      "conventionalCommits": true,
+      "exact": true
+    }
+  }
 ```
 
-基本使用:
+## 使用
+
+基本使用
 
 ```
 # 创建模块
@@ -29,4 +42,10 @@ lerna add [lib-name] --scope=[package-name]
 # 1. 必须先 commit 代码
 lerna publish
 ```
+
+## Changelog 功能
+
+要正确生成 changelog, commit 必须符合约定
+
+
 
