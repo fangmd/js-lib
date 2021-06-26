@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/fangmd/js-lib/compare/v0.1.2...v0.1.3) (2021-06-26)
+
+
+### Bug Fixes
+
+* test publish ([b896d88](https://github.com/fangmd/js-lib/commit/b896d8830b527c89266d56e9e1db10022371ad8c))
+
+
+
+
+
 ## [0.1.2](https://github.com/fangmd/js-lib/compare/v0.1.1...v0.1.2) (2021-06-26)
 
 
