@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.2](https://github.com/fangmd/js-lib/compare/@passon/common@0.3.1...@passon/common@0.3.2) (2021-06-26)
+
+
+### Bug Fixes
+
+* common ([ec33a87](https://github.com/fangmd/js-lib/commit/ec33a87e5f6c4759131d34e8ddc1a6f0614c704e))
+
+
+
+
+
 ## 0.3.1 (2021-06-26)
 
 **Note:** Version bump only for package @passon/common
