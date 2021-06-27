@@ -11,12 +11,12 @@ center, u, b, i {
     padding: 0; 
     border: 0; 
     outline: 0; 
-    font-weight: normal; 
-    font-style: normal; 
-    font-size: 100%; 
-    font-family: inherit; 
-    vertical-align: baseline 
-} 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: baseline;
+}
 body { 
     line-height: 1
 } 
