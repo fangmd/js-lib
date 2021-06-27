@@ -28,7 +28,6 @@
     "url": "https://github.com/fangmd/js-lib/issues"
   },
   "devDependencies": {
-    "rimraf": "^3.0.2"
   },
   "dependencies": {}
 }
