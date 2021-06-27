@@ -6,6 +6,7 @@
   ],
   "scripts": {
     "publish": "lerna run tsc && lerna publish",
+    "tsc": "lerna run tsc",
     "test": "lerna run test",
     "lint": "eslint ./packages --ext .ts,.tsx"
   },

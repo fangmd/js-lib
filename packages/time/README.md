@@ -1,4 +1,3 @@
-# `p-time`
+# `time`
 
-> TODO: description
-
+时间相关函数，基于 dayjs 做二次封装，方便使用
