@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/fangmd/js-lib/compare/@passon/time@0.5.0...@passon/time@0.6.0) (2021-06-27)
+
+
+### Features
+
+* time ([955e89c](https://github.com/fangmd/js-lib/commit/955e89cb16fc5c7197ae0d33137177d936e59db0))
+* time current.ts ([5cd44b0](https://github.com/fangmd/js-lib/commit/5cd44b0bbdccc0bf0e35bda5f494cb1330b53944))
+
+
+
+
+
 # [0.5.0](https://github.com/fangmd/js-lib/compare/@passon/time@0.4.1...@passon/time@0.5.0) (2021-06-27)
 
 
