@@ -19,7 +19,7 @@
     "url": "git+https://github.com/fangmd/js-lib.git"
   },
   "scripts": {
-    "build": "tsc -b",
+    "tsc": "tsc -b",
     "test": "jest",
     "test:watch": "jest --watch"
   },
