@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/fangmd/js-lib/compare/@passon/regex@1.1.1...@passon/regex@1.2.0) (2021-06-27)
+
+
+### Features
+
+* reset-css ([6ac6876](https://github.com/fangmd/js-lib/commit/6ac6876abe63dd95dd4bbda0c89da1803c8f5418))
+
+
+
+
+
 ## [1.1.1](https://github.com/fangmd/js-lib/compare/@passon/regex@1.1.0...@passon/regex@1.1.1) (2021-06-27)
 
 
