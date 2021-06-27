@@ -23,11 +23,11 @@ module.exports = {
   ],
   coverageThreshold: {
     // 配置测试最低阈值
-    global: {
-      branches: 100,
-      functions: 100,
-      lines: 100,
-      statements: 100,
-    },
+    // global: {
+    //   branches: 100,
+    //   functions: 100,
+    //   lines: 100,
+    //   statements: 100,
+    // },
   },
 }
