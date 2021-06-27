@@ -1,4 +1,8 @@
 /**
+ * @description 获取现在时间
+ */
+
+/**
  * 获取当前年份
  */
 export function getCurYear() {
