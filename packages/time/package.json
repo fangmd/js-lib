@@ -16,8 +16,9 @@
   ],
   "scripts": {
     "build": "tsc -b",
-    "test2": "jest --config ../../jest.config.js --rootDir",
-    "test": "jest"
+    "test-tmp": "jest --config ../../jest.config.js --rootDir",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "dependencies": {
     "dayjs": "^1.10.5"
