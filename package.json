@@ -5,7 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "publish": "lerna run tsc && lerna publish",
+    "publish": "lerna run build && lerna publish",
+    "build": "lerna run build",
     "tsc": "lerna run tsc",
     "test": "lerna run test",
     "lint": "eslint ./packages --ext .ts,.tsx",

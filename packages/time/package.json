@@ -16,6 +16,7 @@
   ],
   "scripts": {
     "tsc": "tsc -b",
+    "build": "tsc -b",
     "test-tmp": "jest --config ../../jest.config.js --rootDir",
     "test": "jest",
     "test:watch": "jest --watch"
