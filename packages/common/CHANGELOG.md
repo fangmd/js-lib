@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/fangmd/js-lib/compare/@passon/common@0.4.0...@passon/common@0.5.0) (2021-06-27)
+
+
+### Features
+
+* eslint ([bc18bbf](https://github.com/fangmd/js-lib/commit/bc18bbf2c63f1acb5166271f22e070a5df676133))
+
+
+
+
+
 # [0.4.0](https://github.com/fangmd/js-lib/compare/@passon/common@0.3.2...@passon/common@0.4.0) (2021-06-26)
 
 
