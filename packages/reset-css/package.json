@@ -17,9 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/fangmd/js-lib.git"
   },
-  "scripts": {
-    "build": "tsc -b"
-  },
+  "scripts": {},
   "bugs": {
     "url": "https://github.com/fangmd/js-lib/issues"
   },
