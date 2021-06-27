@@ -29,6 +29,7 @@ export function getCurDayCntOfMonth(): number {
  */
 export function add(one: number, two: number) {
   const a = '12'
-  const a = '12'
   return one + two
 }
+
+export * from './current'
