@@ -20,12 +20,16 @@
   },
   "scripts": {
     "tsc": "tsc -b",
-    "build": "tsc -b",
+    "build": "rimraf ./dist && tsc -b",
     "test": "jest",
     "test:watch": "jest --watch"
   },
   "bugs": {
     "url": "https://github.com/fangmd/js-lib/issues"
   },
-  "gitHead": "8b07715dfb89175536ef0e8de8f5de3709614831"
+  "gitHead": "8b07715dfb89175536ef0e8de8f5de3709614831",
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {}
 }
