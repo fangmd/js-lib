@@ -28,5 +28,7 @@ export function getCurDayCntOfMonth(): number {
  * jest 用
  */
 export function add(one: number, two: number) {
+  const a = '12'
+  const a = '12'
   return one + two
 }
