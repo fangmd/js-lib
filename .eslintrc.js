@@ -10,6 +10,7 @@ module.exports = {
   extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended', 'prettier'],
   rules: {
     // indent: ['error', 'tab'],
+    '@typescript-eslint/no-explicit-any': 'off',
   },
   globals: {
     window: true,
